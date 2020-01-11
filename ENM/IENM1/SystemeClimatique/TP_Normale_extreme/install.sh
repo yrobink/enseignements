@@ -6,5 +6,5 @@ pip3 install --user pandas
 pip3 install --user xarray==0.13.0
 pip3 install --user matplotlib
 pip3 install --user cftime==1.0.3.4
-#pip3 install --user cartopy
-#pip3 install --user jupyterlab
+pip3 install --user jupyter-notebook
+pip3 install --user cartopy
